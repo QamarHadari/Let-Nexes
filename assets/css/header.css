@@ -1,0 +1,56 @@
+.nav-link{
+    font-size: 18px;
+    color: #333333 !important;
+}
+.nav-link:hover{
+    color: #5158a7 !important;
+}
+.nav-item{
+    padding-left: 22px;
+    padding-right: 22px;
+}
+.navbar-nav{
+    padding-top: 40px;
+}
+.navbar{
+    padding: 10px 0 40px 0;
+}
+.header-login-con ul li{
+    padding:0 20px;
+    position: relative;
+}
+.header-login-con ul li a:before{
+    content: "";
+    border-left: 1px solid #cecece;
+    position: absolute;
+    width: auto;
+    height: 16px;
+    bottom: 0;
+    left: -18px;
+}
+.header-login-con ul li:last-child a:before{
+    border-right: 1px solid #cecece;
+    right: -18px;
+}
+.header-login-con a{
+    font-size: 16px;
+    line-height: 50px;
+    text-decoration: none;
+    position: relative;
+    z-index: 1;
+    margin-top: 2px;
+}
+.header-login-con a i{
+    padding-right: 8px;
+    font-size: 16px;
+}
+.header-login-con a:hover i{
+    color: #40c5ff;
+}
+.header-login-con a:hover{
+    color: #40c5ff;
+}
+.header-login-con{
+    position: absolute;
+    right: 0;
+}

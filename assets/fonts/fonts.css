@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200;300;400;500;700;800&display=swap');
+.Montserrat-extra-light{
+    font-weight: 200;
+    font-family: 'Montserrat', sans-serif;
+}
+.Montserrat-light{
+    font-weight: 300;
+    font-family: 'Montserrat', sans-serif;
+}
+.Montserrat-Regular{
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+.Montserrat-medium{
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;
+}
+.Montserrat-bold{
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+}
+.Montserrat-extra-bold{
+     font-weight: 800;
+    font-family: 'Montserrat', sans-serif;
+}
+@font-face {
+    src: url("../fonts/Freehand591BT.ttf");
+    font-family: Freehand591BT;
+}
