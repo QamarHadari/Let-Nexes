@@ -19,8 +19,8 @@ h5{
     line-height: 26px;
 }
 p{
-    font-size: 18px;
-    line-height: 50px;
+    font-size: 16px;
+    line-height: 30px;
 }
 .color-40c5ff{
     color: #40c5ff;
@@ -49,6 +49,7 @@ p{
 .bg-fff{
     background: #ffffff;
 }
+
 .color-a7a7a7{
     color: #a7a7a7;
 }
@@ -127,6 +128,9 @@ p{
     border-radius: 5px;
     margin: 0 10px;
 }
+.Read-More-btn{
+    font-size: 14px;
+}
 .circle-arrow{
     font-size: 11px;
     border: 1px solid #373e96;
@@ -135,5 +139,5 @@ p{
     height: 14px;
     border-radius: 8px;
     margin-left: 5px;
-    padding: 2px 0;
+    padding: 2px 6px;
 }
