@@ -463,7 +463,6 @@ clients-testimonials-box-con{
 .main-contact-right-footer{
     padding-top: 39px;
     padding-bottom: 127px;
-
 }
 .main-contact-right-footer{
     border-top: 4px solid #f3f9fc;
@@ -472,22 +471,22 @@ clients-testimonials-box-con{
     font-size: 16px;
     line-height: 40px;
 }
-.footer-inner-icons-group{
-    max-width: 107px;
-    margin: 0 auto;
-}
-.footer-inner-icons-group > div{
+.footer-icons{
     display: inline-block;
     text-align: center;
+    margin: 0 4px;
 }
-.footer-inner-icons-group div a {
-    height: ;
-    width: ;
+.footer-icons a {
+    height: 31px;
+    width: 31px;
     display: table;
     border:1px solid #adadad;
     border-radius: 5px;
+    text-decoration: none;
 }
-.footer-inner-icons-group div a i{
+.footer-icons a i{
     display: table-cell;
     vertical-align: middle;
+    color: #adadad;
 }
+/****  SERVICES SEC START  ****/

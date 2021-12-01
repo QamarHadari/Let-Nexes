@@ -120,6 +120,9 @@ p{
     position: relative;
     z-index: 1;
 }
+.margin-bottom30{
+    margin-bottom: 30px;
+}
 .button{
     text-decoration: none;
     padding: 8px 28px;
