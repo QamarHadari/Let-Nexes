@@ -581,23 +581,31 @@ clients-testimonials-box-con{
 /*pp-services ended*/
 /*account- health page start*/
 .main-coustomer-sport{
-    padding-bottom: 130px;
+    padding-bottom: 170px;
 }
 .coustomer-sport-inner{
-    padding-top: 30px;
+    margin-top: 30px;
 }
-.coustomer-sport-inner-groups .col-6{
+.coustomer-sport-inner-con{
     padding: 56px 53px 45px 53px;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    box-shadow: 0px 0px 15px 11px rgba(239,239,239,1);
-    -webkit-box-shadow: 0px 0px 15px 11px rgba(239,239,239,1);
-    -moz-box-shadow: 0px 0px 15px 11px rgba(239,239,239,1);
+    margin-bottom: 40px;
+    box-shadow: 0 0 18px 10px rgb(235 235 235);
+    min-height: 735px;
 }
-.coustomer-sport-inner-groups .col-6 figure{
+.coustomer-sport-inner-con figure{
     margin-bottom: 40px;
 }
-.coustomer-sport-inner .row .col-6 h2{
+.coustomer-sport-inner-con h2{
     font-size: 34px;
+}
+.az-claims-inner ul{
+    padding-top: 18px;
+}
+.az-claims-inner ul li{
+    background: url("../image/tickmark.png") no-repeat left top;
+    width: 33.333%;
+    list-style: none;
+    padding-left: 38px;
+    text-align: left;
 }
 
